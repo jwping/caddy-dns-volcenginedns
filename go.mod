@@ -4,7 +4,7 @@ go 1.25
 
 require (
 	github.com/caddyserver/caddy/v2 v2.10.2
-	github.com/jwping/libdns-volcenginedns v0.0.1
+	github.com/jwping/libdns-volcenginedns v0.0.2
 )
 
 require (
